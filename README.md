@@ -1,2 +1,2 @@
 # badwater.dev
-Script
+Basically skidded off unobfuscated Krypt, dont expect updates lol
