@@ -1,2 +1,3 @@
 # ionhub
-project delta script boom boom
+- project delta script
+- leaked by liam originally (i think)
